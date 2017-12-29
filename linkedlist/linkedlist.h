@@ -21,4 +21,6 @@ LLNode * reverseInternal(LLNode * node);
 
 LLNode * newLLNode(int val);
 
+int hasCycle(LinkedList * ll);
+
 
